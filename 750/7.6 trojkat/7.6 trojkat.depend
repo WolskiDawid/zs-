@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636028723 source:c:\users\user\desktop\lanuch\750\7.6 trojkat\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
